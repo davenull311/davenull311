@@ -1,4 +1,4 @@
-name: Update blog posts and StackOverflow activity
+name: Update blog posts activity
 
 on:
   schedule: # Run workflow automatically
