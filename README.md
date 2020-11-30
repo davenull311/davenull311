@@ -54,14 +54,17 @@ My name is Dave. I'm a Microsoft Dynamics Developer, musician, writer and Vetera
 
 <!--- Contact me section -->
 ### Connect with me:
-    [![Linkedin: davenull](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" class="badges" )](https://www.linkedin.com/in/davenull/)
-    <a href="https://stackoverflow.com/users/9586535/dave">
+<p>
+	<a href="https://www.linkedin.com/in/davenull/">
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" class="badges" />
+	</a>
+	<a href="https://stackoverflow.com/users/9586535/dave">
         <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" class="badges" />
     </a>
     <a href="https://dev.to/davenull311">
         <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" class="badges" />
     </a>
-
+</p>
 <!--
 **davenull311/davenull311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
