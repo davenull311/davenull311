@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/davenull311"
           max_post_count: 3
-          template: "[$title]($url) $newline"
+          template: "- [$title]($url) $newline"
