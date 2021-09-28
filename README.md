@@ -9,7 +9,7 @@
 
 <!--- About me section -->
 ### About me
-My name is Dave. I'm a Microsoft Dynamics Developer, musician, writer and Veteran advocate.
+My name is Dave. I'm a Microsoft Power Platform Developer, musician, writer and Veteran advocate.
 
 -----
 
