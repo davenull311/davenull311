@@ -15,7 +15,7 @@ My name is Dave. I'm a Microsoft Power Platform Developer, musician, writer and 
 
 <!--- Public profile feeds -->
 ##### Latest blog posts
-<!-- BLOG-POST-LIST:START -->- [WHITE PAPER: Natural Language Processing for Text Analytics](https://dev.to/davenull311/white-paper-natural-language-processing-nlp-for-text-analytics-17lo) 
+<!-- BLOG-POST-LIST:START --><br />- [WHITE PAPER: Natural Language Processing for Text Analytics](https://dev.to/davenull311/white-paper-natural-language-processing-nlp-for-text-analytics-17lo) 
 - [THE INTERNET OF THINGS:
 Securing the American Infrastructure with IoT](https://dev.to/davenull311/the-internet-of-things-securing-the-american-infrastructure-with-iot-41lk) 
 <!-- BLOG-POST-LIST:END -->
