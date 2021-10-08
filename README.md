@@ -4,8 +4,8 @@
 
 #### I'm a Husband, Father, Developer, Musician, Writer and Veteran Advocate.
 
-[![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=plastic&logoWidth=100&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/davenull311?label=davenull311&style=plastic&logoWidth=100)](https://twitter.com/davenull311)
+[![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/davenull311?label=davenull311&style=plastic)](https://twitter.com/davenull311)
 
 <!--- <hr style="border:none; border-top:1px dotted #f00; color:#fff; height:1px; width:80%"> -->
 
