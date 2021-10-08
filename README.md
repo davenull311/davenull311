@@ -2,7 +2,7 @@
 <!--- About me section -->
 ## Hi there, I'm Dave 👋 <br><br>
 
-# I'm a Husband, Father, Developer, Musician, Writer and Veteran Advocate.
+#### I'm a Husband, Father, Developer, Musician, Writer and Veteran Advocate.
 
 [![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/davenull311?label=davenull311)](https://twitter.com/davenull311)
