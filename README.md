@@ -1,17 +1,16 @@
-## Hi there 👋
 
-[![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
+<!--- About me section -->
+## Hi there, I'm Dave 👋 <br><br>
+
+# I'm a Husband, Father, Developer, Musician, Writer and Veteran Advocate.
+
+[![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/davenull311?label=davenull311)](https://twitter.com/davenull311)
 
 <!--- <hr style="border:none; border-top:1px dotted #f00; color:#fff; height:1px; width:80%"> -->
 
 -----
 
-<!--- About me section -->
-### About me
-My name is Dave. I'm a Microsoft Power Platform Developer, musician, writer and Veteran advocate.
-
------
 
 <!--- Public profile feeds -->
 ##### Latest blog posts
@@ -56,13 +55,13 @@ Securing the American Infrastructure with IoT](https://dev.to/davenull311/the-in
 ### Connect with me:
 <p>
 	<a href="https://www.linkedin.com/in/davenull/">
-		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" class="badges" />
+		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" class="badges" />
 	</a>
 	<a href="https://stackoverflow.com/users/9586535/dave">
-        <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" class="badges" />
+        <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic" class="badges" />
     </a>
     <a href="https://dev.to/davenull311">
-        <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" class="badges" />
+        <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=plastic&logo=dev.to&logoColor=white" class="badges" />
     </a>
 </p>
 <!--
