@@ -23,6 +23,10 @@
 ##### StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Dave for I need to write a filter function &lpar;I think&rpar; that returns a unique &quot;ID&quot; only if all &quot;Type&quot; =&quot;b&quot;](https://stackoverflow.com/questions/78090189/i-need-to-write-a-filter-function-i-think-that-returns-a-unique-id-only-if-a/78090377#78090377)
+- [Answer by Dave for If And formula in Excel](https://stackoverflow.com/questions/78089903/if-and-formula-in-excel/78090174#78090174)
+- [PowerApps: Use HTML to modify form display in model-driven apps?](https://stackoverflow.com/questions/60416906/powerapps-use-html-to-modify-form-display-in-model-driven-apps)
+- [How can I retrieve _POST data from a form created with a foreach loop?](https://stackoverflow.com/questions/54598012/how-can-i-retrieve-post-data-from-a-form-created-with-a-foreach-loop)
 <!-- STACKOVERFLOW:END -->
 
 
