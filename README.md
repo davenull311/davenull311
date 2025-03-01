@@ -3,7 +3,7 @@
 ## Hi there, I'm Dave 👋 <br><br>
 
 #### I'm a Husband, Father, Developer, Musician, Writer and Veteran Advocate.
-
+ 
 [![Linkedin: davenull](https://img.shields.io/badge/-Dave%20Null-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davenull/)](https://www.linkedin.com/in/davenull/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/davenull311?style=social)](https://twitter.com/davenull311)
 
@@ -35,7 +35,7 @@
 <!--- Technology stack section -->         
 #### Technology Stack:
 <p> 
-Programming Languages:
+Programming Languages: 
 - C#, Java, Python, JavaScript, TSQL, PHP, C++, Solidity, HTML, CSS
 
 Frameworks & Libraries:
